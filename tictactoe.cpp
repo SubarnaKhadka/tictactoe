@@ -58,7 +58,7 @@ void tictactoe::computer_vs_player(){
 void tictactoe::player_vs_player(){
 	system("cls");
 	calculate:
-		system("Color A");
+	system("Color A");
 	string x_player_name, o_player_name;
 	cout << "\n\n\n\n\n\t\t\t\t\t\t " << "Enter X Player Name: ";
 	cin >> x_player_name;
@@ -193,7 +193,7 @@ char tictactoe::check_winner(){
 void tictactoe::show_board(){
 	cout << "\n\n\t\t\t"<< "  " << "  |  "<< "  |  "<< endl;
 	cout << "\t\t\t"<< "  " << board[0] << " |  " << board[1] << " |  " <<board[2] << endl;
-    cout << "\t\t\t"<< "  " << "  |  " << "  |  " << endl;
+        cout << "\t\t\t"<< "  " << "  |  " << "  |  " << endl;
 	cout << "\t\t  "<< "-----------------------" << endl;
    	cout << "\t\t\t"<< "  " << "  |  "<< "  |  "<< endl;
 	cout << "\t\t\t"<< "  " <<board[3] << " |  " << board[4] << " |  " <<board[5] << endl;
@@ -201,7 +201,7 @@ void tictactoe::show_board(){
 	cout << "\t\t  "<< "-----------------------" << endl;
 	cout << "\t\t\t"<< "  " << "  |  "<< "  |  "<< endl;
 	cout << "\t\t\t"<< "  " <<board[6] << " |  " << board[7] << " |  " <<board[8] << endl;
-    cout << "\t\t\t"<< "  " << "  |  " << "  |  " << endl;
+        cout << "\t\t\t"<< "  " << "  |  " << "  |  " << endl;
 }
 void tictactoe::fordelay(int j)
 {   int i,k;
