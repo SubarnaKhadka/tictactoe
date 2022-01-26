@@ -1,5 +1,5 @@
 # TicTacToe
- ## Console Based Tic-Tac-Toe Game using c++
+ ## Console Based Tic-Tac-Toe Game using C++
  
  <img src="https://github.com/SubarnaKhadka/tictactoe/blob/main/images/img1.PNG"  width="700" height="400" />
   <img src="https://github.com/SubarnaKhadka/tictactoe/blob/main/images/img2.PNG"  width="700" height="400" />
